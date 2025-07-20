@@ -1,4 +1,4 @@
-# code_snippets# 🧠 Code Snippets & Challenge Solutions
+🧠 Code Snippets & Challenge Solutions
 
 This repo is a collection of short, focused code examples and reverse engineering snippets used in my technical blog posts and while solving CTFs, crackmes, and other infosec-related challenges.
 
